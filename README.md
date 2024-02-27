@@ -1,4 +1,4 @@
-# React QR Generator App
+# React QRCode Generator App
 
 <img src="./Screenshot 2024-02-27 121054.png"/>
 
