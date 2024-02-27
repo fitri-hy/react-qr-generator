@@ -2,7 +2,7 @@
 
 <img src="./Screenshot 2024-02-27 121054.png"/>
 
-<h2>Clone & run Prject</h2>
+<h2>Clone & run Project</h2>
 <pre>
 git clone https://github.com/fitri-hy/react-qr-generator.git
 npm install
