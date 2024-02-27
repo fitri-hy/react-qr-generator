@@ -6,7 +6,8 @@
 <pre>
 git clone https://github.com/fitri-hy/react-qr-generator.git
 npm install
-npm run
+npm start
+
 
 #build
 npm run build
